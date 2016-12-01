@@ -2,11 +2,6 @@
 
 El proyecto fue creado con [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
-## Información de desarrollo
-
-[![Build Status](https://travis-ci.org/jkrauer/cronometro.svg?branch=master)](https://travis-ci.org/jkrauer/cronometro)
-
-
 ## Objetivos
 
 El único objetivo para crear cronómetro es que estoy practicando el uso de Angular 2, si te interesa el proyecto como tal puedes copiarlo a gusto.
