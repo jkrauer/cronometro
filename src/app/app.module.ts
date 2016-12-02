@@ -5,9 +5,12 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+import { AlarmaComponent } from './alarma/alarma.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AlarmaComponent
   ],
   imports: [
     BrowserModule,

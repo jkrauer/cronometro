@@ -13,3 +13,9 @@ Cronómetro sirve, como su nombre indica, como un contador de tiempo. Se puede e
 ## Contribución
 
 No gracias (?)
+
+## TO-DO List
+
+* Primera (y obvia) implementación.
+* Responsive Voice JS.
+
