@@ -15,14 +15,14 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Alarma <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Cronómetro</a></li>
-        <li><a href="#">Temporizador</a></li>
+      <ul class="nav navbar-nav center-block">
+        <li><a [routerLink]="['/alarma']">Alarma <span class="sr-only">(current)</span></a></li>
+        <li><a [routerLink]="['/cronometro']">Cronómetro</a></li>
+        <li><a [routerLink]="['/temporizador']">Temporizador</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 <div class="col-md-12">
-  <app-alarma></app-alarma>
+  <router-outlet></router-outlet>
 </div>

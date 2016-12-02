@@ -6,9 +6,12 @@ El proyecto fue creado con [angular-cli](https://github.com/angular/angular-cli)
 
 El único objetivo para crear cronómetro es que estoy practicando el uso de Angular 2, si te interesa el proyecto como tal puedes copiarlo a gusto.
 
-## Uso 
+## How to use it 
 
-Cronómetro sirve, como su nombre indica, como un contador de tiempo. Se puede establecer que notifique cierto evento a cierta hora, o simplemente que cuente adelante o atrás. No hay mucha magia detrás de ello.
+* git clone
+* npm install
+* npm start
+* Abrir http://localhost:4200
 
 ## Contribución
 
